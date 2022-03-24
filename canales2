@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1,AMERICA NOTICIAS
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1000.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8ZkUYBUo0oRilPRiEN1cr9I8EFzHCTUE&sid=lH3ydXsTOly3rsPpMp91W5J057Rhs0F1&pid=aVLtHq086CoDP8xg0JhI1RsO84BPEdEI&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=FMiefcknTGAyRCkBya649ORloFRD5PcIT3FdqO59EHWW7HGO5oY8fjvwRaQ732cUzVpikx6DTJv&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1648217682428&ot=kUoagrPv4SHOLA90gkGj5w&proto=https&pz=us
+
+#EXTINF:-1,FRECIENCIA LATINA
+https://live-latina-mdstrm.secure.footprint.net/live-stream/623c7738b75f630831da8796/playout/index-f2-v1-a1.m3u8?aid=5ce70c587398b977dc0743b5&uid=buDq1MaOhmyBby49Ix8yzrjjLv2Happz&sid=wlAnHVRDRBDhAQvocVtjkJdh3r1WDalr&pid=hPgH5ZiT8Qt7vylbXSH4RWnyumwO83U2&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&adInsertionSessionId=43625506-ba31-46a0-ba06-2b449955ae6c&es=live-latina-mdstrm.secure.footprint.net&ote=1648217789057&ot=cB9yUI0nSNeZklnYCMIT0A&proto=https&pz=us
+
+#EXTINF:-1,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1,ATV MAS
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3u8
+
+#EXTINF:-1, PANAMERICANA
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFh8aj29eNlYYPBQWV4qG1i0)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:-1, TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+
